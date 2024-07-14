@@ -13,8 +13,12 @@ body {
 #wave-animation {
     padding-top: 50px;
 }
-#tabs{
+#tab-links{
     float: right;
+}
+.tabs {
+    display: none;
+    padding-top: 50px;
 }
 .header-link{
     float: right;
