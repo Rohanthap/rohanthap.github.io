@@ -5,9 +5,13 @@ body {
 }
 #nav-bar{
     width: 101%;
+    padding-top: 200px;
     display: inline-block;
     background-color: black;
     color: white;
+}
+#wave-animation {
+    padding-top: 50px;
 }
 #tabs{
     float: right;
@@ -20,7 +24,7 @@ body {
 .waves {
     position:relative;
     width: 100%;
-    height:40px;
+    height:100px;
     min-height:40px;
     max-height:80px;
 }
