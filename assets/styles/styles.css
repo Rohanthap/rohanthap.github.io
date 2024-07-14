@@ -15,6 +15,7 @@ body {
 }
 #tab-links{
     float: right;
+    list-style-type: none;
 }
 .tabs {
     display: none;
