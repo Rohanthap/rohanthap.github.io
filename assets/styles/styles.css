@@ -97,3 +97,11 @@ body {
     transform: scaleX(1);
     transform-origin: bottom left;
 }
+
+.card-img-overlay {
+    transition: all .25s ease-in-out;
+}
+.card-img-overlay:hover {
+    background-color: rgba(0,0,0,0.8);
+    transition: all .25s ease-in-out;
+}
