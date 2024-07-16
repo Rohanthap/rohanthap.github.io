@@ -99,9 +99,11 @@ body {
 }
 
 .card-img-overlay {
+    color: rgba(255, 255, 255, 0);
     transition: all .25s ease-in-out;
 }
 .card-img-overlay:hover {
     background-color: rgba(0,0,0,0.8);
+    color:rgba(255, 255, 255, 1);
     transition: all .25s ease-in-out;
 }
