@@ -114,7 +114,7 @@ body {
 
 .blink-and-disapear {
     opacity: 0;
-    animation: blinker 8s linear;
+    animation: blinker 6s linear;
 }
 
 @keyframes blinker {
